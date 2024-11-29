@@ -1,2 +1,2 @@
 # TAB-AI
-The algorithm for the prediction AI before cloud integration
+The algorithm for the prediction AI before integration with full application
